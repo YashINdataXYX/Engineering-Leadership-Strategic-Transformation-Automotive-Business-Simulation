@@ -1,4 +1,4 @@
-# Nexus Automobile — Engineering Leadership & Strategic Transformation Simulation
+# Nexus Automobile — Product Portfolio Strategy \& Python-Driven Performance Simulation
 
 A 10-round automotive business simulation where I acted as Technical & Engineering Executive for Nexus Automobile, growing the company from a two-model manufacturer into a diversified, profitable automotive leader.
 
